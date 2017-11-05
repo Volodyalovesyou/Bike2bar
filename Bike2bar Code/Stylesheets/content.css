@@ -1,0 +1,54 @@
+body {
+  width: 700px;
+  margin: 0 auto;
+  font-family: 'Rubik', sans-serif;
+  font-weight: light;
+}
+
+h1, h2, h3 {
+  font-family: 'Rubik', 'Comfortaa', sans-serif;
+  font-weight: bold;
+}
+
+.rivals img  {
+  border: 2px solid #111; /* Рамка вокруг фотографии */
+  padding: 2px; /* Расстояние от картинки до рамки */
+  margin-right: 10px; /* Отступ справа */
+  margin-bottom: 10px; /* Отступ снизу */
+}
+
+h1{
+  text-align: center;
+  margin-top: 69px;
+  font-size: 45px;
+  margin-bottom: 50px;
+}
+
+h2{
+  margin-top: 18px;
+  font-size: 30px;
+}
+
+h3{
+  margin-top: 18px;
+  font-size: 20px;
+}
+
+
+p{
+  margin-top: 8px;
+  font-size:16px;
+  line-height: 21px;
+}
+
+ul {
+  list-style-type: disc;
+  margin-top: 10px;
+  font-size: 18px;
+  line-height: 28px;
+  margin-left: 35px;
+  margin-bottom: 30px;
+}
+li {
+  margin-bottom: 15px;
+}
